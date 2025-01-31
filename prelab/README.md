@@ -3,6 +3,9 @@
 ## Prelab questions
 
 ### Truth Table
+
+Insert your truth table here\
+
 | Month     | A | B | C | D | Y |
 |-----------|---|---|---|---|---|
 | X         | 0 | 0 | 0 | 0 | X |
@@ -22,12 +25,11 @@
 | X         | 1 | 1 | 1 | 0 | X |
 | X         | 1 | 1 | 1 | 1 | X |
 
-Insert your truth table here
 
 ### Boolean Equation
 
 $$
-Y = A'D+AD'
+Y =A'D+AD'
 $$
 
 ### Digital Simulations
