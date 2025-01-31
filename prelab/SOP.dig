@@ -143,6 +143,10 @@ D as the least-significant bit.</string>
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>Y</string>
+        </entry>
       </elementAttributes>
       <pos x="960" y="1160"/>
     </visualElement>
