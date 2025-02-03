@@ -35,3 +35,6 @@
 # don't ignore .github
 !.github/
 !.github/**/*
+
+#dont ignore my stuff
+!*.png
